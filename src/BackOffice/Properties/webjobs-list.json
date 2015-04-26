@@ -1,0 +1,11 @@
+﻿{
+  "$schema": "http://schemastore.org/schemas/json/webjobs-list.json",
+  "WebJobs": [
+    {
+      "filePath": "../BackOffice.MediaServicesJobs/BackOffice.MediaServicesJobs.csproj"
+    },
+    {
+      "filePath": "../BackOffice.LoggerJobs/BackOffice.LoggerJobs.csproj"
+    }
+  ]
+}
